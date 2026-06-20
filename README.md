@@ -27,7 +27,7 @@ Most production work lives in private employer repos. Public pins are personal p
 
 | Repo | Why pin |
 |------|---------|
-| [**plan2026**](https://github.com/danfour649/plan2026) | Next.js / TypeScript task & plan app — PostgreSQL, Prisma, Google OAuth, JSON export, server actions. Shows data modeling, API design, and end-to-end delivery on a real app. |
+| [**plan2026**](https://github.com/danfour649/plan2026) | Next.js / TypeScript task & plan app ([live demo](https://plan2026-pi.vercel.app)) — PostgreSQL, Prisma, Google OAuth, JSON export, server actions. Data modeling, API design, full-stack delivery. |
 | *(slot open)* | **Suggested next:** a small Python data-utility repo (e.g. CSV schema validator or API-to-parquet ingest script) — ~30 min, no employer data. |
 | *(slot open)* | **Optional later:** public resume source (LaTeX or Markdown only) if you want a verifiable link alongside your PDF. Keep `job-hunt-2026` private. |
 
