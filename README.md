@@ -23,11 +23,11 @@ I build and maintain data pipelines that turn messy operational and building-ene
 
 ## Pinned repositories
 
-Most production work lives in private employer repos. Public pins are small utilities that show how I ship CLI tools and data-adjacent code.
+Most production work lives in private employer repos. Public pins are personal projects that show how I ship full-stack apps, data models, and APIs.
 
 | Repo | Why pin |
 |------|---------|
-| [**fola3.0**](https://github.com/danfour649/fola3.0) | Node.js CLI — resize images to a target file size (ImageMagick). Shows practical scripting and binary-search tuning. |
+| [**plan2026**](https://github.com/danfour649/plan2026) | Next.js / TypeScript task & plan app — PostgreSQL, Prisma, Google OAuth, JSON export, server actions. Shows data modeling, API design, and end-to-end delivery on a real app. |
 | *(slot open)* | **Suggested next:** a small Python data-utility repo (e.g. CSV schema validator or API-to-parquet ingest script) — ~30 min, no employer data. |
 | *(slot open)* | **Optional later:** public resume source (LaTeX or Markdown only) if you want a verifiable link alongside your PDF. Keep `job-hunt-2026` private. |
 
