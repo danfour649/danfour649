@@ -1,3 +1,5 @@
+<img src="danf.jpg" width="160" align="right" alt="Daniel Anthony Fitzgerald" />
+
 # Daniel Anthony Fitzgerald
 
 **Senior Data Engineer · AI-augmented ETL & analytics · science-grade rigor**
