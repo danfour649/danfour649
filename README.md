@@ -2,35 +2,41 @@
 
 # Daniel Anthony Fitzgerald
 
-**Senior Data Engineer · AI-augmented ETL & analytics · science-grade rigor**
+**Senior Data Engineer · Azure & AWS data platforms · AI-augmented delivery**
 
-Fredericton, NB, Canada
+Fredericton, NB, Canada · Open to Senior Data / Software Engineering roles (remote Canada & US)
 
-I build and maintain data pipelines that turn messy operational and building-energy data into reliable, stakeholder-ready outputs. My background spans 50+ peer-reviewed publications and large-scale research datasets, then full-stack software engineering, and now senior data engineering with Azure lakehouse patterns, API integrations, and automated data-quality checks. I use AI-assisted development (Copilot, Claude, ChatGPT) as a practical accelerator for Python and Node.js delivery—not a substitute for rigor.
+I design and run data platforms that turn large, messy operational data into reliable APIs and analytics teams can trust. Eight years across software and data engineering, on top of a research career with 50+ peer-reviewed publications — so I bring both production discipline and scientific rigor to hard data problems.
 
-**Now:** Senior Data Engineer at [Climative](https://climative.co) — ETL, data quality, and analytics on Azure (employer work is private).
+## What I do
 
-**Previously:** Software Engineer II at Cvent · Developer at Accreon · Research Specialist at University of Illinois at Chicago (50+ publications).
-
-[LinkedIn](https://www.linkedin.com/in/danfitzg/) · [Google Scholar](https://scholar.google.com/citations?user=zl0ceKAAAAAJ&hl=en) · [Email](mailto:danfour@gmail.com)
+- **Build data platforms end to end** — national-scale ingestion, geocoding, and footprint pipelines covering all of Canada and the United States, with lakehouse bronze/gold modeling and automated data-quality checks.
+- **Run ETL at program scale** — province-wide pipelines processing hundreds of thousands of records per run on Azure Data Lake and Databricks, hardened for resilience and observability.
+- **Ship and own APIs** — REST and GraphQL services with OAuth 2.0, partnering with data science and stakeholders on schema design and contract stability.
+- **Engineer with AI, not around it** — daily use of Claude, Copilot, and Cursor to move faster on Python and TypeScript delivery, with code review, testing, and observability kept non-negotiable.
 
 ## Tech
 
 | | |
 |---|---|
-| **Languages** | Python, JavaScript/TypeScript, SQL, Node.js, Java |
-| **Data / Cloud** | ETL/ELT pipelines, data modeling, data quality, Azure (Data Lake, Container Apps, Azure SQL), AWS, REST/OpenAPI |
-| **AI tooling** | GitHub Copilot, Claude, ChatGPT — AI-augmented development and data analysis |
-| **Practices** | CI/CD, automated & integration testing, code review, secure data handling, Agile/Scrum |
+| **Languages** | Python · TypeScript/JavaScript · SQL (T-SQL, PostgreSQL) · Node.js · Java |
+| **Data & ETL** | ETL/ELT pipelines · data modeling · data quality · Delta Lake · Databricks · lakehouse (bronze/gold) |
+| **Cloud** | Azure (Data Lake Gen2, Container Apps, Azure SQL, Synapse, APIM, Key Vault) · AWS (EC2, ECS, RDS, S3) |
+| **APIs** | REST · GraphQL · OpenAPI · OAuth 2.0 · microservices |
+| **Practices** | CI/CD · automated & integration testing · code review · secure data handling · Agile/Scrum |
 
-## Pinned repositories
+## Featured project
 
-Most production work lives in private employer repos. Public pins are personal projects that show how I ship full-stack apps, data models, and APIs.
+**[plan2026](https://github.com/danfour649/plan2026)** · [live demo](https://plan2026-pi.vercel.app) — full-stack task and planning app built with Next.js 16, TypeScript, PostgreSQL, and Prisma. Google OAuth, server actions, JSON export APIs, and shareable read-only plan links. Shows my approach to data modeling, API design, and shipping a tested, deployed product.
 
-| Repo | Why pin |
-|------|---------|
-| [**plan2026**](https://github.com/danfour649/plan2026) | Next.js / TypeScript task & plan app ([live demo](https://plan2026-pi.vercel.app)) — PostgreSQL, Prisma, Google OAuth, JSON export, server actions. Data modeling, API design, full-stack delivery. |
-| *(slot open)* | **Suggested next:** a small Python data-utility repo (e.g. CSV schema validator or API-to-parquet ingest script) — ~30 min, no employer data. |
-| *(slot open)* | **Optional later:** public resume source (LaTeX or Markdown only) if you want a verifiable link alongside your PDF. Keep `job-hunt-2026` private. |
+*Most production work lives in private employer repositories.*
 
-**Open to:** Senior Data Engineer roles — remote Canada and US-remote (USD).
+## Background
+
+**Now** — Senior Data Engineer at [Climative](https://climative.co): ETL, data quality, public APIs, and platform hardening on Azure.
+
+**Previously** — Software Engineer II at Cvent (full-stack on AWS) · Developer at Accreon (regulated medical & certification systems) · Research Specialist at the University of Illinois at Chicago (50+ publications).
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/danfitzg/) · [Google Scholar](https://scholar.google.com/citations?user=zl0ceKAAAAAJ&hl=en) · [Email](mailto:danfour@gmail.com)
