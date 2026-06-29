@@ -2,7 +2,7 @@
 
 # Daniel Anthony Fitzgerald
 
-**Senior Data Engineer · Azure & AWS data platforms · AI-augmented delivery**
+**Senior Data Engineer · Azure & AWS data platforms · GraphQL & REST APIs · AI-augmented delivery**
 
 Fredericton, NB, Canada · Open to Senior Data / Software Engineering roles (remote Canada & US)
 
@@ -12,18 +12,18 @@ I design and run data platforms that turn large, messy operational data into rel
 
 - **Build data platforms end to end** — national-scale ingestion, geocoding, and footprint pipelines covering all of Canada and the United States, with lakehouse bronze/gold modeling and automated data-quality checks.
 - **Run ETL at program scale** — province-wide pipelines processing hundreds of thousands of records per run on Azure Data Lake and Databricks, hardened for resilience and observability.
-- **Ship and own APIs** — REST and GraphQL services with OAuth 2.0, partnering with data science and stakeholders on schema design and contract stability.
+- **Design and own GraphQL & REST APIs** — built a public **GraphQL (Apollo Server)** + REST API with OAuth 2.0 scope-based access, used by external program partners; led schema design, type modeling, and contract stability.
 - **Engineer with AI, not around it** — daily use of Claude, Copilot, and Cursor to move faster on Python and TypeScript delivery, with code review, testing, and observability kept non-negotiable.
 
 ## Tech
 
 | | |
 |---|---|
-| **Languages** | Python · TypeScript/JavaScript · SQL (T-SQL, PostgreSQL) · Node.js · Java |
-| **Data & ETL** | ETL/ELT pipelines · data modeling · data quality · Delta Lake · Databricks · lakehouse (bronze/gold) |
+| **Languages** | Python · TypeScript/JavaScript · C#/.NET · SQL (T-SQL, PostgreSQL) · Node.js · Java |
+| **APIs** | **GraphQL (Apollo Server)** · REST · OpenAPI · OAuth 2.0 · Express · microservices |
+| **Data & ETL** | ETL/ELT pipelines · data modeling · data quality · Delta Lake · Databricks · lakehouse (bronze/gold) · SQL Server |
 | **Cloud** | Azure (Data Lake Gen2, Container Apps, Azure SQL, Synapse, APIM, Key Vault) · AWS (EC2, ECS, RDS, S3) |
-| **APIs** | REST · GraphQL · OpenAPI · OAuth 2.0 · microservices |
-| **Practices** | CI/CD · automated & integration testing · code review · secure data handling · Agile/Scrum |
+| **Practices** | CI/CD · Docker · automated, integration & e2e testing · observability · code review · secure data handling · Agile/Scrum |
 
 ## Featured project
 
@@ -33,9 +33,9 @@ I design and run data platforms that turn large, messy operational data into rel
 
 ## Background
 
-**Now** — Senior Data Engineer at [Climative](https://climative.co): ETL, data quality, public APIs, and platform hardening on Azure.
+**Now** — Senior Data Engineer at [Climative](https://climative.co): ETL, data quality, public GraphQL/REST APIs, and platform hardening on Azure.
 
-**Previously** — Software Engineer II at Cvent (full-stack on AWS) · Developer at Accreon (regulated medical & certification systems) · Research Specialist at the University of Illinois at Chicago (50+ publications).
+**Previously** — Software Engineer II at Cvent (full-stack on AWS, .NET & Java) · Developer at Accreon (regulated medical & certification systems) · Research Specialist at the University of Illinois at Chicago (50+ publications).
 
 ## Connect
 
