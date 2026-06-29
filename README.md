@@ -1,6 +1,6 @@
 <img src="danf.jpg" width="160" align="right" alt="Daniel Anthony Fitzgerald" />
 
-# Daniel Anthony Fitzgerald
+### Daniel Anthony Fitzgerald
 
 **Senior Data Engineer · Azure & AWS data platforms · GraphQL & REST APIs · AI-augmented delivery**
 
