@@ -33,7 +33,7 @@ I design and run data platforms that turn large, messy operational data into rel
 
 ## Background
 
-**Now** — Senior Data Engineer at [Climative](https://climative.co): ETL, data quality, public GraphQL/REST APIs, and platform hardening on Azure.
+**Now** — Senior Data Engineer at [Climative](https://climative.ai): ETL, data quality, public GraphQL/REST APIs, and platform hardening on Azure.
 
 **Previously** — Software Engineer II at Cvent (full-stack on AWS, .NET & Java) · Developer at Accreon (regulated medical & certification systems) · Research Specialist at the University of Illinois at Chicago (50+ publications).
 
