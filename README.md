@@ -27,7 +27,7 @@ I design and run data platforms that turn large, messy operational data into rel
 
 ## Featured project
 
-**[plan2026](https://github.com/danfour649/plan2026)** · [live demo](https://plan2026-pi.vercel.app) — full-stack task and planning app built with Next.js 16, TypeScript, PostgreSQL, and Prisma. Google OAuth, server actions, JSON export APIs, and shareable read-only plan links. Shows my approach to data modeling, API design, and shipping a tested, deployed product.
+**[plan2026](https://github.com/danfour649/plan2026)** · [plan2026.ca](https://plan2026.ca) — full-stack task and planning app built with Next.js 16, TypeScript, PostgreSQL, and Prisma. Google OAuth, server actions, JSON export APIs, and shareable read-only plan links. Shows my approach to data modeling, API design, and shipping a tested, deployed product.
 
 *Most production work lives in private employer repositories.*
 
