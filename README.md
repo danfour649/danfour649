@@ -25,9 +25,11 @@ I design and run data platforms that turn large, messy operational data into rel
 | **Cloud** | Azure (Data Lake Gen2, Container Apps, Azure SQL, Synapse, APIM, Key Vault) · AWS (EC2, ECS, RDS, S3) |
 | **Practices** | CI/CD · Docker · automated, integration & e2e testing · observability · code review · secure data handling · Agile/Scrum |
 
-## Featured project
+## Featured projects
 
 **[plan2026](https://github.com/danfour649/plan2026)** · [plan2026.ca](https://plan2026.ca) — full-stack task and planning app built with Next.js 16, TypeScript, PostgreSQL, and Prisma. Google OAuth, server actions, JSON export APIs, and shareable read-only plan links. Shows my approach to data modeling, API design, and shipping a tested, deployed product.
+
+**[pigin-translator](https://github.com/danfour649/pigin-translator)** — English to Nigerian Pidgin and Yoruba translator (TypeScript), built alongside plan2026's Nigerian Pidgin locale work. Open source (MIT).
 
 *Most production work lives in private employer repositories.*
 
