@@ -14,6 +14,8 @@ Off the clock I edit [NB Tech News](https://nbtechnews.ca) and volunteer around 
 
 **[maps-of-nb](https://github.com/danfour649/maps-of-nb)** · [live map viewer](https://maps-of-nb.vercel.app) — New Brunswick open map data (GeoNB orthophotos, LiDAR buildings, roads) with an interactive Fredericton viewer; the data pipeline behind the next GTA Fredericton maps.
 
+**[Galaga-assembly](https://github.com/danfour649/Galaga-assembly)** · [play it in your browser](https://danfour649.github.io/Galaga-assembly/) — a Galaga-style arcade clone with its gameplay core in x86-64 assembly (NASM) and a portable C/SDL2 build compiled to WebAssembly. Works on phones with touch controls.
+
 **[pigin-translator](https://github.com/danfour649/pigin-translator)** — English to Nigerian Pidgin and Yoruba translator (TypeScript), spun out of plan2026's Pidgin work. Open source (MIT).
 
 **Previously** — Software Engineer II at Cvent · Developer at Accreon · Research Specialist at the University of Illinois at Chicago.
