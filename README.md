@@ -20,4 +20,4 @@ Off the clock I edit [NB Tech News](https://nbtechnews.ca) and volunteer around 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/danfitzg/) · [Google Scholar](https://scholar.google.com/citations?user=zl0ceKAAAAAJ&hl=en) · [Email](mailto:danfour@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danfitzg/) · [X](https://x.com/danfour649) · [Google Scholar](https://scholar.google.com/citations?user=zl0ceKAAAAAJ&hl=en) · [Email](mailto:danfour@gmail.com)
