@@ -12,7 +12,7 @@ Off the clock I edit [NB Tech News](https://nbtechnews.ca) and volunteer around 
 
 **[plan2026](https://github.com/danfour649/plan2026)** · [plan2026.ca](https://plan2026.ca) — a hobby project that got out of hand: a full-stack planning app (Next.js, PostgreSQL), live in English, French, and Nigerian Pidgin.
 
-**[maps-of-nb](https://github.com/danfour649/maps-of-nb)** · [live map viewer](https://maps-of-nb-danfour649s-projects.vercel.app) — New Brunswick open map data (GeoNB orthophotos, LiDAR buildings, roads) with an interactive Fredericton viewer; the data pipeline behind the next GTA Fredericton maps.
+**[maps-of-nb](https://github.com/danfour649/maps-of-nb)** · [live map viewer](https://maps-of-nb.vercel.app) — New Brunswick open map data (GeoNB orthophotos, LiDAR buildings, roads) with an interactive Fredericton viewer; the data pipeline behind the next GTA Fredericton maps.
 
 **[pigin-translator](https://github.com/danfour649/pigin-translator)** — English to Nigerian Pidgin and Yoruba translator (TypeScript), spun out of plan2026's Pidgin work. Open source (MIT).
 
